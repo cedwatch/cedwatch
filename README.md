@@ -64,6 +64,9 @@ Made in Cambodia with Swiss standards.
 
 [Visit the showcase →](https://ced.watch)
 
+------------------------------------------
+------------------------------------------
+
 # ced · watch
 
 **Outils indie respectueux de la vie privée**  
